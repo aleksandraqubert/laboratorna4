@@ -1,0 +1,292 @@
+
+
+      .forall{
+        dispay:flex;
+        margin:0;
+        
+    }
+    .lab1{
+        display:flex;
+        margin: 0 ;
+    }
+    .first{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:black;
+        flex:2;
+        height:100px; 
+        max-width:200px;
+        font-size:50px;
+        justify-content:flex-end;
+        align-items:flex-end;
+         
+       
+    }
+    .lab2{
+        display:flex;
+        margin: 0;
+    }
+    .second1{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .second2{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .second3{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .second4{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:orange;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .lab3{
+        display:flex;
+    }
+    .third1{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .third2{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .third3{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .third4{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:orange;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .lab4{
+        margin: 0;
+        display:flex;
+    }
+    .four1{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .four2{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .four3{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .four4{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:orange;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .lab5{
+        display:flex;
+        margin: 0;
+    }
+    .five1{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .five2{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .five3{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .five4{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:orange;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+
+    .lab6{
+        display:flex;
+        margin: 0;
+    }
+    .six1{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:100px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .six2{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:grey;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
+    .six3{
+        margin: 0;
+        display:flex;
+        color:white;
+        background:orange;
+        flex:1;
+        max-width:50px;
+        height:50px;
+        outline:1px solid white;;
+        font-size:20px;
+        justify-content:center;
+        align-items:center;
+    }
